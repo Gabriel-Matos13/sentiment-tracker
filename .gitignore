@@ -1,0 +1,26 @@
+# Credentials
+.env
+
+# Python virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Apify / scraper internals
+getting the data/raw_comments.csv
+
+# Jupyter (if you ever use it)
+.ipynb_checkpoints/
+
+# OS clutter
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VS Code / editor settings
+.vscode/
+.idea/

@@ -1,0 +1,47 @@
+[
+  {
+    "handle": "edeeste.rd",
+    "platform": "instagram",
+    "utility_type": "EDEESTE"
+  },
+  {
+    "handle": "ededeje",
+    "platform": "facebook",
+    "utility_type": "EDEESTE"
+  },
+  {
+    "handle": "coraabord",
+    "platform": "instagram",
+    "utility_type": "CORAABO"
+  },
+  {
+    "handle": "coraabo.do",
+    "platform": "facebook",
+    "utility_type": "CORAABO"
+  },
+  {
+    "handle": "alcaldiabc",
+    "platform": "instagram",
+    "utility_type": "ALCALDIA_BC"
+  },
+  {
+    "handle": "AlcaldiaBC",
+    "platform": "facebook",
+    "utility_type": "ALCALDIA_BC"
+  },
+  {
+    "handle": "bocachicard04",
+    "platform": "instagram",
+    "utility_type": "MEDIA"
+  },
+  {
+    "handle": "bocachicainformando",
+    "platform": "instagram",
+    "utility_type": "MEDIA"
+  },
+  {
+    "handle": "mediosilustradostv",
+    "platform": "instagram",
+    "utility_type": "MEDIA"
+  }
+]
